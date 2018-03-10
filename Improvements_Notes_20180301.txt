@@ -1,0 +1,11 @@
+text to speech on raspberry pi
+Use static message with mp3 soundfile
+
+Use REST-API (weather underground)
+www.wunderground.com
+
+[?3/?1/?2018 10:55 AM] Ramos, Alberto: 
+https://www.wunderground.com/weather/api/d/pricing.html 
+http://www.pythonforbeginners.com/scraping/scraping-wunderground 
+
+Read photo from ECS as a background
